@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\class oluşturma\InherıtanceHomework\OOP_InherıtanceHomework\OOP_InherıtanceHomework\bin\Debug\OOP_InherıtanceHomework.exe.config
+C:\Users\hp\Desktop\class oluşturma\InherıtanceHomework\OOP_InherıtanceHomework\OOP_InherıtanceHomework\bin\Debug\OOP_InherıtanceHomework.exe
+C:\Users\hp\Desktop\class oluşturma\InherıtanceHomework\OOP_InherıtanceHomework\OOP_InherıtanceHomework\bin\Debug\OOP_InherıtanceHomework.pdb
+C:\Users\hp\Desktop\class oluşturma\InherıtanceHomework\OOP_InherıtanceHomework\OOP_InherıtanceHomework\obj\Debug\OOP_InherıtanceHomework.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\class oluşturma\InherıtanceHomework\OOP_InherıtanceHomework\OOP_InherıtanceHomework\obj\Debug\OOP_InherıtanceHomework.Form1.resources
+C:\Users\hp\Desktop\class oluşturma\InherıtanceHomework\OOP_InherıtanceHomework\OOP_InherıtanceHomework\obj\Debug\OOP_InherıtanceHomework.Properties.Resources.resources
+C:\Users\hp\Desktop\class oluşturma\InherıtanceHomework\OOP_InherıtanceHomework\OOP_InherıtanceHomework\obj\Debug\OOP_InherıtanceHomework.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\class oluşturma\InherıtanceHomework\OOP_InherıtanceHomework\OOP_InherıtanceHomework\obj\Debug\OOP_InherıtanceHomework.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\class oluşturma\InherıtanceHomework\OOP_InherıtanceHomework\OOP_InherıtanceHomework\obj\Debug\OOP_InherıtanceHomework.exe
+C:\Users\hp\Desktop\class oluşturma\InherıtanceHomework\OOP_InherıtanceHomework\OOP_InherıtanceHomework\obj\Debug\OOP_InherıtanceHomework.pdb
