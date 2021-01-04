@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace OOP_HamburgerOtomasyonu
+{
+    class Siparis
+    {
+        public Menüler  MenüTercih { get; set; }
+        public  MenüBoyut BoyutTercih { get; set; }
+        public decimal SiparisTutarı { get; set; }
+
+        decimal siparisTutarı = 0;
+    }
+}
